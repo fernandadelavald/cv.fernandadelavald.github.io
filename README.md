@@ -1,6 +1,11 @@
+Este é um projeto de criação da webpage de um currículo.
 
+## Tecnologias
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Tecnologias envolvidas na criação deste projeto:
+
+* HTML
+* CSS
+* Bootstrap
+* Javascript
+
